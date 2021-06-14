@@ -1,1 +1,1 @@
-# -vue-vuex-jwt-auth
+# vue-vuex-jwt-auth
